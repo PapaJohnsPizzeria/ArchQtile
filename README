@@ -4,6 +4,7 @@ TODO:
 - Figure out LightDM on the vbox or just yolo it on the arch install
 - update .bashrc
 - update config.py
+- update starship.toml
 - keep working on .vimrc
 - figure out alacritty.yml
 

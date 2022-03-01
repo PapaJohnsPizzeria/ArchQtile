@@ -17,6 +17,7 @@ atom
 xorg-xrandr arandr
 vim
 starship
+exa
 
 Change of plans:
 remove powerline

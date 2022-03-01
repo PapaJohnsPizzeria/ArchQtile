@@ -10,10 +10,14 @@ qalculate-gtk
 thunar
 alacritty
 firefox
-powerline powerline-fonts
 noto-fonts
 ttf-jetbrains-mono
 feh
 atom
 xorg-xrandr arandr
 vim
+starship
+
+Change of plans:
+remove powerline
+starship is kinda sexy

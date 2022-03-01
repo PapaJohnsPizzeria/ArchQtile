@@ -2,6 +2,10 @@ This README is doodoo
 
 TODO: 
 - Figure out LightDM on the vbox or just yolo it on the arch install
+- update .bashrc
+- update config.py
+- keep working on .vimrc
+- figure out alacritty.yml
 
 Stuff that i installed that i need on launch:
 rofi
